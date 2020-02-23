@@ -143,7 +143,7 @@ const (
 	V1_14_4 Protocol = 498
 	V1_15 Protocol = 573
 	V1_15_1 Protocol = 575
-	V1_14_2 Protocol = 578
+	V1_15_2 Protocol = 578
 )
 
 var (
